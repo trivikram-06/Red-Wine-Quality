@@ -28,6 +28,12 @@ To run this project, ensure you have the following software installed:
 -**RAM**: At least 4 GB
 -**Disk Space**: Minimum 500 MB of free space for Python and library installations
 
+## Run in order
+ -**python wine_quality_segmentation.py**
+ -**python uplot_umatrix.py**
+ -**python uplot2_umatrix.py**
+ -**python plot_bar_graphss.py**
+
 ## Prerequisites
 Before running the code, ensure you have the following libraries installed:
 ```bash
@@ -55,3 +61,5 @@ python uplot2_umatrix.py
 ##5. Plot Average Wine Quality by Cluster
 This script creates a bar chart of the average wine quality for each cluster.
 python plot_bar_graphss.py
+
+
