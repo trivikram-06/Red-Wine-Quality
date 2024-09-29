@@ -24,15 +24,15 @@ To run this project, ensure you have the following software installed:
 
 ## Hardware Requirements
 
--**Processor**: Minimum Intel i3 or equivalent
+-  **Processor**: Minimum Intel i3 or equivalent
 -**RAM**: At least 4 GB
--**Disk Space**: Minimum 500 MB of free space for Python and library installations
+- **Disk Space**: Minimum 500 MB of free space for Python and library installations
 
 ## Run in order
- -**python wine_quality_segmentation.py**
- -**python uplot_umatrix.py**
- -**python uplot2_umatrix.py**
- -**python plot_bar_graphss.py**
+ - **python wine_quality_segmentation.py**
+ - **python uplot_umatrix.py**
+ - **python uplot2_umatrix.py**
+ - **python plot_bar_graphss.py**
 
 ## Prerequisites
 Before running the code, ensure you have the following libraries installed:
