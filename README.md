@@ -36,7 +36,7 @@ pip install pandas matplotlib minisom scikit-learn
 
 ## Instructions
 1. Clone the repository
-git clone https://github.com/trivikram-06/SOM-Wine-Clustering.git
+https://github.com/trivikram-06/Red-Wine-Quality.git
 cd SOM-Wine-Clustering
 
 ## 2. Run the Python Scripts
