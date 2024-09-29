@@ -25,7 +25,7 @@ To run this project, ensure you have the following software installed:
 ## Hardware Requirements
 
 -  **Processor**: Minimum Intel i3 or equivalent
--**RAM**: At least 4 GB
+   **RAM**: At least 4 GB
 - **Disk Space**: Minimum 500 MB of free space for Python and library installations
 
 ## Run in order
